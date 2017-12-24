@@ -6,4 +6,3 @@ Linear Algebra
 ======
 Week 2 
 Introduction to Machine Learning 
-=======
